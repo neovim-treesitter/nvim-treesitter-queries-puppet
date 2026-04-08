@@ -1,6 +1,6 @@
 {
+  "parser_version": "15f192929b7d317f5914de2b4accd37b349182a6",
   "lang": "puppet",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-puppet",
-  "semver": false,
-  "parser_version": "15f192929b7d317f5914de2b4accd37b349182a6"
+  "semver": false
 }
